@@ -1,0 +1,23 @@
+#home {
+    background: #ffc107;
+    color: white;
+}
+
+.caixa {
+    padding: 60px 0;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+footer p a {
+    margin: 5px 15px;
+    text-decoration: none;
+    color: #065bda;
+}
+footer p a:hover {
+    text-decoration: none;
+    color: #ca9904;
+    font-weight: bold;
+    border: 1px solid black;
+    border-radius: 3px;
+    font-size: large;
+}
